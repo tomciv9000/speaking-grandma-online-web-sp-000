@@ -1,3 +1,7 @@
+speak_to_grandma(phrase)
+if phrase != phrase.UPCASE
+  
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
